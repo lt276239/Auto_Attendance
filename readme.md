@@ -33,7 +33,7 @@
 
 1. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000353.png)
 
-2. 点击放大镜处的搜索按钮![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000637.png)
+2. 点击放大镜处的搜索按钮![](https://rw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000637.png)
 
 3. 搜索eai-sess![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000915.jpg)
 
